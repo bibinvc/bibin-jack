@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
     --main-white: #ce3131;
     --main-red: #29177c;
@@ -28,6 +29,9 @@
   /* Base styles */
   
   body {
+=======
+body {
+>>>>>>> 41d1867b179b0da13553f4eed6cc0e00d134000c
     font-family: 'Poppins', sans-serif;
     font-size: 1.8rem; /* 18px */
     font-weight: 400;
@@ -143,7 +147,10 @@
     }
   }
   
+<<<<<<< HEAD
   /* "Automagic" image grid using no media queries */
+=======
+>>>>>>> 41d1867b179b0da13553f4eed6cc0e00d134000c
   .projects-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -263,7 +270,10 @@
     transform: translateY(8px);
   }
   
+<<<<<<< HEAD
   /* Footer */
+=======
+>>>>>>> 41d1867b179b0da13553f4eed6cc0e00d134000c
   
   footer {
     font-weight: 300;
@@ -287,5 +297,9 @@
       flex-direction: column;
       text-align: center;
     }
+<<<<<<< HEAD
   }
   
+=======
+  }
+>>>>>>> 41d1867b179b0da13553f4eed6cc0e00d134000c
